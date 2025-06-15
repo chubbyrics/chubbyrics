@@ -1,8 +1,3 @@
-<!--
-  Hi there 👋 — Welcome to my GitHub!
-  Theme: Elegant dark with accent colors (purples, sky blue, sunset orange)
--->
-
 <h1 align="center">
   Rica Mae Rapatan
   <br>
@@ -22,7 +17,7 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 
 ---
 
-## 🚀 My Toolbox
+## 🚀 My TechStacks
 
 <p align="center">
   <!-- Web -->
@@ -46,14 +41,13 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 
   <!-- Design (SVGs where possible, else Shields.io badges) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <!-- Wix, Canva, Photoshop, Illustrator: Badges, no devicon SVGs -->
   <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="28"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="28"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="28"/>
 </p>
 
-<p align="center"><i>// tech with a little spark ✨</i></p>
+<p align="center"><i> Tech with a little spark ✨</i></p>
 
 ---
 
@@ -67,17 +61,57 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 
 ---
 
-## 🚀 Let’s Connect!
+## 🌐 Let’s Connect!
 
-- 🌐 [chubbyrics.github.io/portfolio-website](https://chubbyrics.github.io/portfolio-website/)
-<!-- - 📫 Email: <i>Optional — add here if you want</i>
-- 💼 <i>LinkedIn/Twitter/Other socials if you want to add</i> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rica-mae-rapatan-9153ab246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://chubbyrics.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Building-real%20stuff%20that%20matters-skyblue?style=for-the-badge&logo=github" alt="currently building"/>
+  <img src="https://komarev.com/ghpvc/?username=chubbyrics&style=for-the-badge&color=9b59b6" alt="Profile views"/>
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chubbyrics&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chubbyrics&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbyrics&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chubbyrics&theme=radical&margin-w=10&column=7"/>
+</p>
+
+---
+
+## 🗂️ Latest Projects
+
+- [Portfolio & Personal Website](https://chubbyrics.github.io/portfolio-website/)
+- [Student Jobs Project](https://chubbyrics.github.io/Student_Jobs/)
+- *(More coming soon!)*
+
+---
+
+## ✨ Random Quote
+
+> “Creativity is intelligence having fun.” – Albert Einstein  
+> *(Random quotes can be automated!)*
+
+---
 
 <sub>
 Clean, bold, and a little bit personal.  
