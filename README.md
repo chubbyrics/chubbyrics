@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Bachelor%20of%20Science%20in%20IT-4th%20Year-blueviolet?style=flat-square" alt="BSIT Badge"/>
 </h1>
 
-<p align="center">
+<p align="center" style="font-size:1.2em;">
   <b>Fueled by curiosity, caffeine, and the occasional existential crisis.</b>
 </p>
 
@@ -44,10 +44,13 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
   <!-- Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 
-  <!-- Design -->
+  <!-- Design (SVGs where possible, else Shields.io badges) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix-original.svg" alt="Wix" width="40" height="40"/>
-  <!-- Canva doesn't have a Devicon logo, consider omitting or using a text badge. -->
+  <!-- Wix, Canva, Photoshop, Illustrator: Badges, no devicon SVGs -->
+  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="28"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="28"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="28"/>
 </p>
 
 <p align="center"><i>// tech with a little spark ✨</i></p>
