@@ -20,31 +20,26 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 ## 🚀 My TechStacks
 
 <p align="center">
-  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 
-  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-
-  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 
-  <!-- Design (SVGs where possible, else Shields.io badges) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="28"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="28"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="28"/>
 </p>
 
 <p align="center"><i> Tech with a little spark ✨</i></p>
@@ -53,11 +48,26 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 
 ## 🖼️ Projects That Show My Story
 
-- 🖥️ <b>[Portfolio & Personal Website](https://chubbyrics.github.io/portfolio-website/)</b>  
-  My creative space — see my work, journey, and a bit of my personality.
+### 🧠 AI & Innovation
+- 🦾 <b>[SignLanguageTranslator](https://github.com/chubbyrics/SignLanguageTranslator)</b>  
+  Breaking barriers with code. A real-time translation tool using **Python, OpenCV, and TensorFlow** to interpret sign language gestures into text/speech.
+
+### 📱 Mobile Development
+- 📲 <b>[Cal2Hub App](https://github.com/chubbyrics/Cal2Hub_App)</b>  
+  An **Android (Kotlin)** application designed to streamline field connectivity, synchronizing schedules and logs with a central hub.
+
+### 💻 Web Solutions
+- 💼 <b>[SmartInbox](https://github.com/chubbyrics/SmartInbox)</b>  
+  A polished IT consultancy platform built with **HTML/JS** featuring robust mobile responsiveness and multi-language support.
+
+- 🏫 <b>[CampusEventManager](https://github.com/chubbyrics/CampusEventManager)</b>  
+  Simplifying university life. A comprehensive event management system built to handle student registrations and venue coordination.
 
 - 🎓 <b>[Student Jobs Project](https://chubbyrics.github.io/Student_Jobs/)</b>  
   Connecting students to opportunities — built with a practical, user-focused approach.
+
+- 🖥️ <b>[Portfolio Website](https://chubbyrics.github.io/portfolio-website/)</b>  
+  My creative space — see my work, journey, and a bit of my personality.
 
 ---
 
@@ -95,14 +105,6 @@ Currently freelancing on <b>web development</b> and <b>graphic design</b> — bu
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chubbyrics&theme=radical&margin-w=10&column=7"/>
 </p>
-
----
-
-## 🗂️ Latest Projects
-
-- [Portfolio & Personal Website](https://chubbyrics.github.io/portfolio-website/)
-- [Student Jobs Project](https://chubbyrics.github.io/Student_Jobs/)
-- *(More coming soon!)*
 
 ---
 
