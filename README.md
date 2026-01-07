@@ -1,120 +1,96 @@
-<h1 align="center">
-  Rica Mae Rapatan
-  <br>
-  <img src="https://img.shields.io/badge/Bachelor%20of%20Science%20in%20IT-4th%20Year-blueviolet?style=flat-square" alt="BSIT Badge"/>
-</h1>
-
-<p align="center" style="font-size:1.2em;">
-  <b>Fueled by curiosity, caffeine, and the occasional existential crisis.</b>
-</p>
-
----
-
-## 👋 Hey, I’m Rica Mae!
-
-I’m an incoming 4th year BSIT student who loves crafting solutions and creative designs.  
-Currently freelancing on <b>web development</b> and <b>graphic design</b> — building things that solve real stuff.
-
----
-
-## 🚀 My TechStacks
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <h1 style="display: inline-block; color: #ff2a2a">Rica Mae Rapatan</h1>
+</div>
 
 <p align="center">
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-
-  <!-- Design (SVGs where possible, else Shields.io badges) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="28"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="28"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="28"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2A2A&center=true&vCenter=true&width=500&lines=BSIT+4th+Year+%40+Cebu;Android+Dev+%26+Game+Dev+%F0%9F%95%B9%EF%B8%8F;Graphic+Designer+%F0%9F%8E%A8;Building+Solutions+that+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center"><i> Tech with a little spark ✨</i></p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=chubbyrics&style=flat-square&color=ff0000&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
----
+<br/>
 
-## 🖼️ Projects That Show My Story
-
-- 🖥️ <b>[Portfolio & Personal Website](https://chubbyrics.github.io/portfolio-website/)</b>  
-  My creative space — see my work, journey, and a bit of my personality.
-
-- 🎓 <b>[Student Jobs Project](https://chubbyrics.github.io/Student_Jobs/)</b>  
-  Connecting students to opportunities — built with a practical, user-focused approach.
-
----
-
-## 🌐 Let’s Connect!
+<h3 align="center">🚀 About Me</h3>
 
 <p align="center">
+  I’m a <b>4th Year BSIT Student</b> currently diving deep into mobile development and system architecture.<br>
+  I bridge the gap between complex backend logic and beautiful frontend design.<br>
+  <i>"Fueled by curiosity, caffeine, and the drive to graduate on time."</i> 🎓
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/rica-mae-rapatan-9153ab246/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chubbyrics.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Personal_Portfolio-D70040?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chubbyrics&style=for-the-badge&color=9b59b6" alt="Profile views"/>
-</p>
+<div align="center">
+  <h3>⚡ The Arsenal</h3>
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,kotlin,php,laravel,mysql,sqlite&theme=dark" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,godot,figma,ps,ai&theme=dark" />
+</div>
 
----
+<br/>
 
-## 📈 GitHub Stats
+<h3>🏆 Worthy Flexing Projects</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chubbyrics&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chubbyrics&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbyrics&layout=compact&theme=radical&hide_border=true"/>
-</p>
+| **Project** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **💊 Popstar Drug POS** | *Thesis Project.* A full-stack Pharmacy Management System with biometric security, real-time inventory, and dynamic PDF financial reporting. | Android (Java), SQLite, MPAndroidChart |
+| **🗣️ Sign Language AI** | *ML Integration.* An Android app that translates hand gestures into text using TensorFlow Lite models for accessibility. | Kotlin, TensorFlow Lite, Python |
+| **👻 Pac-Man Clone** | *Game Dev.* A recreation of the classic arcade game featuring custom ghost AI and pathfinding algorithms. | Godot Engine, GDScript |
+| **🎓 Student Jobs** | *Web Platform.* A job portal connecting students with freelance opportunities. | HTML/CSS, JS, Firebase |
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<h3>🎖️ Achievements & Milestones</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chubbyrics&theme=radical&margin-w=10&column=7"/>
-</p>
+- 🥇 **Dean's Lister** (Consistent Academic Scholar)
+- 💻 **Thesis Defender** (Successfully built & defended full-scale POS system)
+- 🎨 **Freelance Graphic Designer** (Completed 20+ Client Projects)
+- 📱 **Mobile Dev Specialist** (Mastered Android Native & Cross-platform)
 
----
+<br/>
 
-## 🗂️ Latest Projects
+<h3 align="center">🐍 My Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/chubbyrics/chubbyrics/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+</div>
 
-- [Portfolio & Personal Website](https://chubbyrics.github.io/portfolio-website/)
-- [Student Jobs Project](https://chubbyrics.github.io/Student_Jobs/)
-- *(More coming soon!)*
+<br/>
 
----
+<h3 align="center">📊 GitHub Stats</h3>
 
-## ✨ Random Quote
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chubbyrics&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbyrics&layout=compact&theme=merko&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+</div>
 
-> “Creativity is intelligence having fun.” – Albert Einstein  
-> *(Random quotes can be automated!)*
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chubbyrics&theme=merko&hide_border=true&background=00000000" alt="streak stats" />
+</div>
 
-<sub>
-Clean, bold, and a little bit personal.  
-Dark theme, accent vibes.  
-Made with ❤️ by chubbyrics
-</sub>
+<br/>
+
+<div align="center">
+  <sub><i>"Creativity is intelligence having fun."</i></sub>
+  <br>
+  <sub>Made with 🩸 and ☕ by <b>chubbyrics</b></sub>
+</div>
