@@ -20,7 +20,7 @@
 <br/><br/>
 
 <h3>⚡ System Status: Online</h3>
-I’m a <b>4th Year BSIT Student</b> specializing in <b>Full Stack Web</b> and <b>Mobile Development</b>.<br>
+I’m a <b></b> BSIT Graduate</b> specializing in <b>Full Stack Web</b> and <b>Mobile Development</b>.<br>
 I build systems that bridge the gap between complex backend logic and aesthetic frontend design.<br>
 <i>"Fueled by curiosity, caffeine, and the occasional existential crisis."</i> 👾
 
